@@ -1,4 +1,4 @@
-# NCKH_2023 - NGHIÊN CỨU TÌM HIỂU HỆ THỐNG PHÁT HIỆN HÀNH VI KHÔNG ĐỘI MŨ BẢO HIỂM KHI THAM GIA GIAO THÔNG ỨNG DỤNG TRÍ TUỆ NHÂN TẠO
+# HỆ THỐNG PHÁT HIỆN HÀNH VI KHÔNG ĐỘI MŨ BẢO HIỂM KHI THAM GIA GIAO THÔNG ỨNG DỤNG TRÍ TUỆ NHÂN TẠO
 
 ## Kết quả
 
@@ -29,4 +29,4 @@ python main.py --source 'path_to_data'
  
 **Mô hình nhận dạng ký tự**
 [weight.h5](https://drive.google.com/drive/folders/13hkJmz5-yzaNbyhPb473kaYcFTA3f9nt?usp=sharing)
-# NCKH2023
+
